@@ -25,6 +25,7 @@
 - [Java面向对象编程配套上PPT-孙卫琴.ppt](https://github.com/johnnynode/ebook-java/raw/master/Java面向对象编程配套上PPT-孙卫琴.ppt)
 - [Java面向对象编程配套下PPT-孙卫琴.ppt](https://github.com/johnnynode/ebook-java/raw/master/Java面向对象编程配套下PPT-孙卫琴.ppt)
 - [基于java小型搜索引擎的研究与实现.doc](https://github.com/johnnynode/ebook-java/raw/master/基于java小型搜索引擎的研究与实现.doc)
+- [JAVA程序员常用英语.doc](https://github.com/johnnynode/ebook-java/raw/master/JAVA程序员常用英语.doc)
 - [Thinking-in-java代码.rar](https://github.com/johnnynode/ebook-java/raw/master/Thinking-in-java代码.rar)
 - [Java编程思想代码.zip](https://github.com/johnnynode/ebook-java/raw/master/Java编程思想代码.zip)
 - [chm](https://github.com/johnnynode/ebook-java/raw/master/chm/)
