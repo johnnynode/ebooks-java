@@ -7,8 +7,14 @@
 - [java编程思想(第二版).pdf](https://github.com/johnnynode/ebook-java/raw/master/java编程思想(第二版).pdf)
 - [java编程思想(第三版).pdf](https://github.com/johnnynode/ebook-java/raw/master/java编程思想(第三版).pdf)
 - [java编程思想(第四版).pdf](https://github.com/johnnynode/ebook-java/raw/master/java编程思想(第四版).pdf)
+- [Java.Web.开发详解.XML.XSLT.Servlet.JSP.深入剖析实例应用.pdf](https://github.com/johnnynode/ebook-java/raw/master/Java.Web.开发详解.XML.XSLT.Servlet.JSP.深入剖析实例应用.pdf)
+- [Java从入门到精通.魔乐科技-MLDN-软件实训中心.扫描版.pdf](https://github.com/johnnynode/ebook-java/raw/master/Java从入门到精通.魔乐科技-MLDN-软件实训中心.扫描版.pdf)
 - [深入体验Java_Web开发内幕-核心基础-张孝祥著.pdf](https://github.com/johnnynode/ebook-java/raw/master/深入体验Java_Web开发内幕-核心基础-张孝祥著.pdf)
+- [学通Java.Web的24堂课.陈丹丹.卢瀚.扫描版.pdf](https://github.com/johnnynode/ebook-java/raw/master/学通Java.Web的24堂课.陈丹丹.卢瀚.扫描版.pdf)
+- [深入体验Java.Web项目开发.张玲玲.扫描版.pdf](https://github.com/johnnynode/ebook-java/raw/master/深入体验Java.Web项目开发.张玲玲.扫描版.pdf)
 - [Java编程思想第四版完整中文高清版-免费.pdf](https://github.com/johnnynode/ebook-java/raw/master/Java编程思想第四版完整中文高清版-免费.pdf)
+- [Java.Web开发之道.王国辉等.扫描版.pdf](https://github.com/johnnynode/ebook-java/raw/master/Java.Web开发之道.王国辉等.扫描版.pdf)
+- [Java网络编程.第3版.哈诺德.扫描版.pdf](https://github.com/johnnynode/ebook-java/raw/master/Java网络编程.第3版.哈诺德.扫描版.pdf)
 - [Java编程思想第四版中文版完整版.pdf](https://github.com/johnnynode/ebook-java/raw/master/Java编程思想第四版中文版完整版.pdf)
 - [Java数据库接口JDBC入门基础讲座.pdf](https://github.com/johnnynode/ebook-java/raw/master/Java数据库接口JDBC入门基础讲座.pdf)
 - [设计模式：Java语言中的应用.pdf](https://github.com/johnnynode/ebook-java/raw/master/设计模式：Java语言中的应用.pdf)
@@ -31,3 +37,5 @@
 - [chm](https://github.com/johnnynode/ebook-java/raw/master/chm/)
 - [java框架](https://github.com/johnnynode/ebook-java/raw/master/java框架/)
 - [Java试题](https://github.com/johnnynode/ebook-java/raw/master/Java试题/)
+
+
