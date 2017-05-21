@@ -1,7 +1,8 @@
 # 下载链接 [Download Links]
 
 > 提示：暂不支持直接在github打开，请下载后查看!<br>
-> Tips: browse pdf file directly on github not supported yet, here are download links!
+> Tips here: Direct browsing pdf file on github is not perfect supported yet in consequence of the file size. <br>
+> Please view the download links below:
 
 - [java编程思想(第一版).pdf](https://github.com/johnnynode/ebook-java/raw/master/java编程思想(第一版).pdf)
 - [java编程思想(第二版).pdf](https://github.com/johnnynode/ebook-java/raw/master/java编程思想(第二版).pdf)
